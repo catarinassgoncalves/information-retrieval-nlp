@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE / OS
+.DS_Store
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local data
+data/
+
+# Trained models / checkpoints
+my_best_t5_model/
+t5_model_lr_*/
+checkpoint-*/
+
+# Hugging Face / model cache
+.cache/
+
+# Logs
+*.log

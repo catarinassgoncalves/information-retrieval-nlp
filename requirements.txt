@@ -1,0 +1,17 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+nltk
+spacy
+sentence-transformers
+transformers
+torch
+datasets
+evaluate
+rouge-score
+rank-bm25
+wordcloud
+tqdm
